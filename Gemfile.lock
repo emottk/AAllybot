@@ -50,7 +50,7 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord (~> 6.0)
-  pg
+  pg (~> 1.2)
   rake (~> 13.0)
   require_all (~> 3.0)
   sinatra (~> 2.0)
