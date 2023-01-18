@@ -11,7 +11,7 @@ gem "thin", "~> 1.7"
 
 gem "require_all", "~> 3.0"
 
-gem "activerecord", "~> 6.0"
+gem "activerecord", "~> 6.1"
 
 gem "sinatra-activerecord", "~> 2.0"
 
